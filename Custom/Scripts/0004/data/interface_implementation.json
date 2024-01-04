@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "vlocity_cmt__InterfaceImplementation__c",
+                "referenceId": "vlocity_cmt__InterfaceImplementation__cRef1"
+            },
+            "Name": "SupplementalOrderService",
+            "vlocity_cmt__ImplementationClassName__c": "SupplementalOrderServiceImplementation"
+        },
+        {
+            "attributes": {
+                "type": "vlocity_cmt__InterfaceImplementation__c",
+                "referenceId": "vlocity_cmt__InterfaceImplementation__cRef2"
+            },
+            "Name": "XOMSupplementalOrderLifeCycle",
+            "vlocity_cmt__ImplementationClassName__c": "XOMSupplementalOrderLifecycleImpl"
+        }
+    ]
+}

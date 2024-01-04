@@ -1,0 +1,11 @@
+{
+    "name": "Create Vlocity interfaces and implementations to support canceling orders",
+    "description": "Create interfaces and implementations to support canceling orders.",
+    "code": 4,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+}

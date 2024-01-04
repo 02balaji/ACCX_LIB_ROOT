@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "vlocity_cmt__InterfaceImplementation__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "interface_implementation.json"
+        ]
+    },
+    {
+        "sobject": "vlocity_cmt__InterfaceImplementationDetail__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "interface_implementation_detail.json"
+        ]
+    }
+]

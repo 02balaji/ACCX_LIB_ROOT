@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "vlocity_cmt__InterfaceImplementationDetail__c",
+                "referenceId": "vlocity_cmt__InterfaceImplementationDetail__cRef1"
+            },
+            "Name": "SupplementalOrderServiceImplementation",
+            "vlocity_cmt__InterfaceId__c": "@vlocity_cmt__InterfaceImplementation__cRef1",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsDefault__c": true
+        },
+        {
+            "attributes": {
+                "type": "vlocity_cmt__InterfaceImplementationDetail__c",
+                "referenceId": "vlocity_cmt__InterfaceImplementationDetail__cRef2"
+            },
+            "Name": "XOMSupplementalOrderLifecycleImpl",
+            "vlocity_cmt__InterfaceId__c": "@vlocity_cmt__InterfaceImplementation__cRef2",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsDefault__c": true
+        }
+    ]
+}
