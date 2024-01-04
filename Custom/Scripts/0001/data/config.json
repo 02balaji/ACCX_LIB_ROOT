@@ -1,0 +1,196 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+    "partitions": [
+        {
+            "fullName": "vlocity_cmt__CPQPartition",
+            "isDefaultPartition": "false",
+            "masterLabel": "CPQPartition",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityAPIResponse",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityAPIResponse",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityMetadata",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityMetadata",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__OrchestrationItems",
+            "isDefaultPartition": "false",
+            "masterLabel": "OrchestrationItems",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        }
+    ]
+=======
+{
+    "partitions": [
+        {
+            "fullName": "vlocity_cmt__CPQPartition",
+            "isDefaultPartition": "false",
+            "masterLabel": "CPQPartition",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityAPIResponse",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityAPIResponse",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityMetadata",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityMetadata",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__OrchestrationItems",
+            "isDefaultPartition": "false",
+            "masterLabel": "OrchestrationItems",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        }
+    ]
+>>>>>>> branch 'main' of https://github.com/02balaji/ACCX_LIB_ROOT.git
+=======
+{
+    "partitions": [
+        {
+            "fullName": "vlocity_cmt__CPQPartition",
+            "isDefaultPartition": "false",
+            "masterLabel": "CPQPartition",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityAPIResponse",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityAPIResponse",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__VlocityMetadata",
+            "isDefaultPartition": "false",
+            "masterLabel": "VlocityMetadata",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        },
+        {
+            "fullName": "vlocity_cmt__OrchestrationItems",
+            "isDefaultPartition": "false",
+            "masterLabel": "OrchestrationItems",
+            "platformCachePartitionTypes": [
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Session"
+                },
+                {
+                    "allocatedCapacity": "2",
+                    "cacheType": "Organization"
+                }
+            ]
+        }
+    ]
+>>>>>>> branch 'main' of https://github.com/02balaji/ACCX_LIB_ROOT.git
+}

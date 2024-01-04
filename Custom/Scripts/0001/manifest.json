@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+    "name": "Manage Salesforce platform cache partitions",
+    "description": "Configure Salesforce platform cache partitions.",
+    "code": 1,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+=======
+{
+    "name": "Manage Salesforce platform cache partitions",
+    "description": "Configure Salesforce platform cache partitions.",
+    "code": 1,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+>>>>>>> branch 'main' of https://github.com/02balaji/ACCX_LIB_ROOT.git
+=======
+{
+    "name": "Manage Salesforce platform cache partitions",
+    "description": "Configure Salesforce platform cache partitions.",
+    "code": 1,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+>>>>>>> branch 'main' of https://github.com/02balaji/ACCX_LIB_ROOT.git
+}

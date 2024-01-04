@@ -1,0 +1,11 @@
+{
+    "name": "Manage Trigger Setup Custom Settings",
+    "description": "Ability to manage the custom settings (vlocity_cmt__TriggerSetup__c)",
+    "code": 2,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+}

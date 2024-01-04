@@ -1,0 +1,40 @@
+{
+    "custom_settings": [
+        {
+            "Name": "vlocity_cmt__TriggerSetup__c",
+            "Type": "List",
+            "Value": [
+                {
+                    "Name": "AllTriggers",
+                    "Attributes": [
+                        {
+                            "Name": "vlocity_cmt__IsTriggerOn__c",
+                            "Type": "Boolean",
+                            "Value": true
+                        }
+                    ]
+                },
+                {
+                    "Name": "Party.EnablePartyModel",
+                    "Attributes": [
+                        {
+                            "Name": "vlocity_cmt__IsTriggerOn__c",
+                            "Type": "Boolean",
+                            "Value": true
+                        }
+                    ]
+                },
+                {
+                    "Name": "EPCProductTrigger",
+                    "Attributes": [
+                        {
+                            "Name": "vlocity_cmt__IsTriggerOn__c",
+                            "Type": "Boolean",
+                            "Value": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
