@@ -1,0 +1,66 @@
+<<<<<<< HEAD
+{
+  "id" : "6dc70a2e-85ce-4321-9a28-6972da7ba042",
+  "name" : "Manage Default Pricing Plan Custom Settings",
+  "description" : "Set default pricing plan in the CPQ (DefaultPricingPlan) custom settings",
+  "code" : "0001",
+  "version" : "1.0.0",
+  "active" : true,
+  "platform" : "Salesforce",
+  "subsystem" : "Salesforce Industries",
+  "categories" : [ "cat://Salesforce-Industries", "cat://Salesforce-Industries/CPQ Administration" ],
+  "tags" : [ "CPQ Configuration", "Pricing Plan Configuration" ],
+  "params" : {
+    "partitionName": {
+      "type" : "integer",
+      "title" : "Name of the default Pricing Plan",
+      "description" : "Name of the default Pricing Plan. ...",
+      "maxLength" : 20,
+      "default" : "DEFAULT"
+    }
+  },
+  "exceptions" : {
+    "0001" : {
+      "severity" : "Critical",
+      "description" : "Access denied. Can not execute this script due to security permissions"
+    },
+    "0002" : {
+      "severity" : "Critical",
+      "description" : "Salesforce Industries Managed package is not deployed on target Salesforce Org."
+    }
+  },
+  "dependencies" : { }
+=======
+{
+  "id" : "6dc70a2e-85ce-4321-9a28-6972da7ba042",
+  "name" : "Manage Default Pricing Plan Custom Settings",
+  "description" : "Set default pricing plan in the CPQ (DefaultPricingPlan) custom settings",
+  "code" : "0001",
+  "version" : "1.0.0",
+  "active" : true,
+  "platform" : "Salesforce",
+  "subsystem" : "Salesforce Industries",
+  "categories" : [ "cat://Salesforce-Industries", "cat://Salesforce-Industries/CPQ Administration" ],
+  "tags" : [ "CPQ Configuration", "Pricing Plan Configuration" ],
+  "params" : {
+    "partitionName": {
+      "type" : "integer",
+      "title" : "Name of the default Pricing Plan",
+      "description" : "Name of the default Pricing Plan. ...",
+      "maxLength" : 20,
+      "default" : "DEFAULT"
+    }
+  },
+  "exceptions" : {
+    "0001" : {
+      "severity" : "Critical",
+      "description" : "Access denied. Can not execute this script due to security permissions"
+    },
+    "0002" : {
+      "severity" : "Critical",
+      "description" : "Salesforce Industries Managed package is not deployed on target Salesforce Org."
+    }
+  },
+  "dependencies" : { }
+>>>>>>> branch 'main' of https://github.com/02balaji/ACCX_LIB_ROOT.git
+}
