@@ -1,0 +1,9 @@
+{
+    "remote_sites": [
+        {
+            "Name": "StreamingAPI",
+            "DisableProtocolSecurity": true,
+            "Active": true
+        }
+    ]
+}
