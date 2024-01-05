@@ -1,0 +1,918 @@
+{
+    "picklists": [
+        {
+            "objectName": "vlocity_cmt__ContextScope__c",
+            "fieldName": "vlocity_cmt__ScopeType__c",
+            "items": [
+                {
+                    "Value": "Virtual",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__Element__c",
+            "fieldName": "vlocity_cmt__Type__c",
+            "items": [
+                {
+                    "Value": "Radio Group",
+                    "Active": true
+                },
+                {
+                    "Value": "Delete Action",
+                    "Active": true
+                },
+                {
+                    "Value": "Navigate Action",
+                    "Active": true
+                },
+                {
+                    "Value": "Batch Action",
+                    "Active": true
+                },
+                {
+                    "Value": "Cache Block",
+                    "Active": true
+                },
+                {
+                    "Value": "Try Catch Block",
+                    "Active": true
+                },
+                {
+                    "Value": "Conditional Block",
+                    "Active": true
+                },
+                {
+                    "Value": "Custom Lightning Web Component",
+                    "Active": true
+                },
+                {
+                    "Value": "DataRaptor Turbo Action",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OmniScript__c",
+            "fieldName": "vlocity_cmt__Language__c",
+            "items": [
+                {
+                    "Value": "Multi-Language",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Product2",
+            "fieldName": "vlocity_cmt__Scope__c",
+            "items": [
+                {
+                    "Value": "Account",
+                    "Active": true
+                },
+                {
+                    "Value": "Order Item",
+                    "Active": true
+                },
+                {
+                    "Value": "Downstream Order Item",
+                    "Active": true
+                },
+                {
+                    "Value": "Top Order Item",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Product2Family",
+            "items": [
+                {
+                    "Value": "Multiplay",
+                    "Active": true
+                },
+                {
+                    "Value": "Mobile",
+                    "Active": true
+                },
+                {
+                    "Value": "Landline",
+                    "Active": true
+                },
+                {
+                    "Value": "Internet",
+                    "Active": true
+                },
+                {
+                    "Value": "TV",
+                    "Active": true
+                },
+                {
+                    "Value": "Support",
+                    "Active": true
+                },
+                {
+                    "Value": "Internet+TV",
+                    "Active": true
+                },
+                {
+                    "Value": "Accessories",
+                    "Active": true
+                },
+                {
+                    "Value": "Device",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Product2",
+            "fieldName": "vlocity_cmt__LifecycleStatus__c",
+            "items": [
+                {
+                    "Value": "Released",
+                    "Active": true
+                },
+                {
+                    "Value": "Amendment Pending",
+                    "Active": true
+                },
+                {
+                    "Value": "Completed",
+                    "Active": false
+                },
+                {
+                    "Value": "Deployed",
+                    "Active": false
+                }
+            ]
+        },
+        {
+            "objectName": "Product2",
+            "fieldName": "vlocity_cmt__Type__c",
+            "items": [
+                {
+                    "Value": "Plan",
+                    "Active": true
+                },
+                {
+                    "Value": "Service",
+                    "Active": true
+                },
+                {
+                    "Value": "SIM Card",
+                    "Active": true
+                },
+                {
+                    "Value": "Add On",
+                    "Active": true
+                },
+                {
+                    "Value": "Fee",
+                    "Active": true
+                },
+                {
+                    "Value": "Top Up",
+                    "Active": true
+                },
+                {
+                    "Value": "Handset",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Product2",
+            "fieldName": "vlocity_cmt__SubType__c",
+            "items": [
+                {
+                    "Value": "Postpaid",
+                    "Active": true
+                },
+                {
+                    "Value": "Prepaid",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__PricingVariable__c",
+            "fieldName": "vlocity_cmt__Scope__c",
+            "items": [
+                {
+                    "Value": "Parent",
+                    "Active": true
+                },
+                {
+                    "Value": "Parent Rollup",
+                    "Active": true
+                },
+                {
+                    "Value": "Group",
+                    "Active": true
+                },
+                {
+                    "Value": "Group Rollup",
+                    "Active": true
+                },
+                {
+                    "Value": "Master",
+                    "Active": true
+                },
+                {
+                    "Value": "Master Rollup",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OrderItemRelationship__c",
+            "fieldName": "vlocity_cmt__RelationshipType__c",
+            "items": [
+                {
+                    "Value": "Replacement",
+                    "Active": true
+                },
+                {
+                    "Value": "Reassignment",
+                    "Active": true
+                },
+                {
+                    "Value": "Movement",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "AssetRelationshipType",
+            "items": [
+                {
+                    "Value": "Replacement",
+                    "Active": true
+                },
+                {
+                    "Value": "Reassignment",
+                    "Active": true
+                },
+                {
+                    "Value": "Suspend",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume",
+                    "Active": true
+                },
+                {
+                    "Value": "Movement",
+                    "Active": true
+                },
+                {
+                    "Value": "Relies On",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "OrderItem",
+            "fieldName": "vlocity_cmt__SubAction__c",
+            "items": [
+                {
+                    "Value": "Replace",
+                    "Active": true
+                },
+                {
+                    "Value": "Reassign",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "OrderItem",
+            "fieldName": "vlocity_cmt__FulfilmentStatus__c",
+            "items": [
+                {
+                    "Value": "Rejected",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "QuoteLineItem",
+            "fieldName": "vlocity_cmt__Action__c",
+            "items": [
+                {
+                    "Value": "Suspend",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "QuoteLineItem",
+            "fieldName": "vlocity_cmt__SubAction__c",
+            "items": [
+                {
+                    "Value": "Replace",
+                    "Active": true
+                },
+                {
+                    "Value": "Reassign",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__CachedAPIResponse__c",
+            "fieldName": "vlocity_cmt__Type__c",
+            "items": [
+                {
+                    "Value": "ruleSetCombinationResultItem",
+                    "Active": true
+                },
+                {
+                    "Value": "catalogCtxQualificationMap",
+                    "Active": true
+                },
+                {
+                    "Value": "groupContext",
+                    "Active": true
+                },
+                {
+                    "Value": "basketWrapper",
+                    "Active": true
+                },
+                {
+                    "Value": "assetReferenceKey",
+                    "Active": true
+                },
+                {
+                    "Value": "pleOfferMap",
+                    "Active": true
+                },
+                {
+                    "Value": "basketPricing",
+                    "Active": true
+                },
+                {
+                    "Value": "bundleWrapper",
+                    "Active": true
+                },
+                {
+                    "Value": "promotionWrapper",
+                    "Active": true
+                },
+                {
+                    "Value": "offerItem",
+                    "Active": true
+                },
+                {
+                    "Value": "containsItem",
+                    "Active": true
+                },
+                {
+                    "Value": "versionInfo",
+                    "Active": true
+                },
+                {
+                    "Value": "versionInfoList",
+                    "Active": true
+                },
+                {
+                    "Value": "timeSlicesList",
+                    "Active": true
+                },
+                {
+                    "Value": "timeSliceInfo",
+                    "Active": true
+                },
+                {
+                    "Value": "contextDimensionsResultItem",
+                    "Active": true
+                },
+                {
+                    "Value": "contextCombinationsResultItem",
+                    "Active": true
+                },
+                {
+                    "Value": "ancestors",
+                    "Active": true
+                },
+                {
+                    "Value": "compiledPricingData",
+                    "Active": true
+                },
+                {
+                    "Value": "compiledOfferHierarchy",
+                    "Active": true
+                },
+                {
+                    "Value": "compiledAdvancedRule",
+                    "Active": true
+                },
+                {
+                    "Value": "compiledTemporaryData",
+                    "Active": true
+                },
+                {
+                    "Value": "cartDocument",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__CachedAPIChange__c",
+            "fieldName": "vlocity_cmt__ChangeType__c",
+            "items": [
+                {
+                    "Value": "simpleOffer",
+                    "Active": true
+                },
+                {
+                    "Value": "availability",
+                    "Active": true
+                },
+                {
+                    "Value": "basket",
+                    "Active": true
+                },
+                {
+                    "Value": "promotionWrapper",
+                    "Active": true
+                },
+                {
+                    "Value": "Ancestors",
+                    "Active": true
+                },
+                {
+                    "Value": "ContainsItem",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__CachedAPIChange__c",
+            "fieldName": "vlocity_cmt__CodeType__c",
+            "items": [
+                {
+                    "Value": "Data",
+                    "Active": true
+                },
+                {
+                    "Value": "Offer",
+                    "Active": true
+                },
+                {
+                    "Value": "Catalog",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OrderPriceAdjustment__c",
+            "fieldName": "vlocity_cmt__Source__c",
+            "items": [
+                {
+                    "Value": "Attribute Based Pricing",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__QuotePricingAdjustment__c",
+            "fieldName": "vlocity_cmt__Source__c",
+            "items": [
+                {
+                    "Value": "Attribute Based Pricing",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OpportunityPriceAdjustment__c",
+            "fieldName": "vlocity_cmt__Source__c",
+            "items": [
+                {
+                    "Value": "Attribute Based Pricing",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__AccountPriceAdjustment__c",
+            "fieldName": "vlocity_cmt__Source__c",
+            "items": [
+                {
+                    "Value": "Attribute Based Pricing",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__AccountHold__c",
+            "fieldName": "vlocity_cmt__HoldType__c",
+            "items": [
+                {
+                    "Value": "Customer Initiated",
+                    "Active": true
+                },
+                {
+                    "Value": "Company Initiated",
+                    "Active": true
+                },
+                {
+                    "Value": "Fraud",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Asset",
+            "fieldName": "vlocity_cmt__Action__c",
+            "items": [
+                {
+                    "Value": "Suspend",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "OpportunityLineItem",
+            "fieldName": "vlocity_cmt__Action__c",
+            "items": [
+                {
+                    "Value": "Suspend",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OpportunityLineItemRelationship__c",
+            "fieldName": "vlocity_cmt__RelationshipType__c",
+            "items": [
+                {
+                    "Value": "Replacement",
+                    "Active": true
+                },
+                {
+                    "Value": "Movement",
+                    "Active": true
+                },
+                {
+                    "Value": "Reassignment",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__QuoteLineItemRelationship__c",
+            "fieldName": "vlocity_cmt__RelationshipType__c",
+            "items": [
+                {
+                    "Value": "Movement",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OfferMigrationPlan__c",
+            "fieldName": "vlocity_cmt__ProductFamily__c",
+            "items": [
+                {
+                    "Value": "Broadband",
+                    "Active": true
+                },
+                {
+                    "Value": "Fixed Line",
+                    "Active": true
+                },
+                {
+                    "Value": "TV",
+                    "Active": true
+                },
+                {
+                    "Value": "Wireless Mobile",
+                    "Active": true
+                },
+                {
+                    "Value": "Internet",
+                    "Active": true
+                },
+                {
+                    "Value": "Multiplay",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__ProductRelationship__c",
+            "fieldName": "vlocity_cmt__RelationshipType__c",
+            "items": [
+                {
+                    "Value": "Relies On",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Order",
+            "fieldName": "vlocity_cmt__OrderStatus__c",
+            "items": [
+                {
+                    "Value": "Amend Requested",
+                    "Active": true
+                },
+                {
+                    "Value": "Canceled",
+                    "Active": true
+                },
+                {
+                    "Value": "In Progress",
+                    "Active": true
+                },
+                {
+                    "Value": "Superseded",
+                    "Active": true
+                },
+                {
+                    "Value": "Submitted",
+                    "Active": true
+                },
+                {
+                    "Value": "Rejected",
+                    "Active": true
+                },
+                {
+                    "Value": "Frozen",
+                    "Active": true
+                },
+                {
+                    "Value": "Discarded",
+                    "Active": true
+                },
+                {
+                    "Value": "Available In Pool",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "Order",
+            "fieldName": "vlocity_cmt__FulfilmentStatus__c",
+            "items": [
+                {
+                    "Value": "Queued",
+                    "Active": true
+                },
+                {
+                    "Value": "Rejected",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "OrderType",
+            "items": [
+                {
+                    "Value": "Sales",
+                    "Active": true
+                },
+                {
+                    "Value": "Suspend Lost or Stolen SIM",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume Lost or Stolen SIM",
+                    "Active": true
+                },
+                {
+                    "Value": "Replace SIM",
+                    "Active": true
+                },
+                {
+                    "Value": "Change Number",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__OrchestrationScenario__c",
+            "fieldName": "vlocity_cmt__Action__c",
+            "items": [
+                {
+                    "Value": "NoChange",
+                    "Active": true
+                },
+                {
+                    "Value": "Suspend",
+                    "Active": true
+                },
+                {
+                    "Value": "Resume",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__ObjectClass__c",
+            "fieldName": "vlocity_cmt__LifecycleStatus__c",
+            "items": [
+                {
+                    "Value": "Released",
+                    "Active": true
+                },
+                {
+                    "Value": "Completed",
+                    "Active": false
+                },
+                {
+                    "Value": "Deployed",
+                    "Active": false
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__Picklist__c",
+            "fieldName": "vlocity_cmt__LifecycleStatus__c",
+            "items": [
+                {
+                    "Value": "Released",
+                    "Active": true
+                },
+                {
+                    "Value": "Completed",
+                    "Active": false
+                },
+                {
+                    "Value": "Deployed",
+                    "Active": false
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__Project__c",
+            "fieldName": "vlocity_cmt__Status__c",
+            "items": [
+                {
+                    "Value": "In-Review",
+                    "Active": true
+                },
+                {
+                    "Value": "In-Test",
+                    "Active": true
+                },
+                {
+                    "Value": "Released",
+                    "Active": true
+                },
+                {
+                    "Value": "Canceled",
+                    "Active": true
+                },
+                {
+                    "Value": "Deployed",
+                    "Active": false
+                },
+                {
+                    "Value": "Completed",
+                    "Active": false
+                },
+                {
+                    "Value": "Testing",
+                    "Active": false
+                },
+                {
+                    "Value": "Approved",
+                    "Active": false
+                },
+                {
+                    "Value": "Rejected",
+                    "Active": false
+                }
+            ]
+        },
+        {
+            "objectName": "AssetStatus",
+            "items": [
+                {
+                    "Value": "Shipped",
+                    "Active": true
+                },
+                {
+                    "Value": "Installed",
+                    "Active": true
+                },
+                {
+                    "Value": "Registered",
+                    "Active": true
+                },
+                {
+                    "Value": "Obsolete",
+                    "Active": true
+                },
+                {
+                    "Value": "Purchased",
+                    "Active": true
+                },
+                {
+                    "Value": "Subscribed",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "CaseStatus",
+            "items": [
+                {
+                    "Value": "New",
+                    "Active": true
+                },
+                {
+                    "Value": "Closed",
+                    "Active": true
+                },
+                {
+                    "Value": "Escalated",
+                    "Active": true
+                },
+                {
+                    "Value": "Pending",
+                    "Active": true
+                },
+                {
+                    "Value": "On Hold",
+                    "Active": true
+                },
+                {
+                    "Value": "Approved",
+                    "Active": true
+                },
+                {
+                    "Value": "Rejected",
+                    "Active": true
+                },
+                {
+                    "Value": "Applied",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "QuoteStatus",
+            "items": [
+                {
+                    "Value": "Draft",
+                    "Active": true
+                },
+                {
+                    "Value": "Needs Review",
+                    "Active": true
+                },
+                {
+                    "Value": "In Review",
+                    "Active": true
+                },
+                {
+                    "Value": "Approved",
+                    "Active": true
+                },
+                {
+                    "Value": "Rejected",
+                    "Active": true
+                },
+                {
+                    "Value": "Presented",
+                    "Active": true
+                },
+                {
+                    "Value": "Accepted",
+                    "Active": true
+                },
+                {
+                    "Value": "Denied",
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "objectName": "vlocity_cmt__Attribute__c",
+            "fieldName": "vlocity_cmt__ValueType__c",
+            "items": [
+                {
+                    "Value": "Lookup",
+                    "Active": false
+                }
+            ]
+        }
+    ]
+}

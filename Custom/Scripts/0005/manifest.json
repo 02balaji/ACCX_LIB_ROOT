@@ -1,0 +1,11 @@
+{
+    "name": "Verify the Document Template Picklist",
+    "description": "Verify the Document Template Picklist",
+    "code": 5,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+}
